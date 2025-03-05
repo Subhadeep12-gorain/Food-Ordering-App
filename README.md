@@ -17,10 +17,10 @@ Styled Components
 
 
 🚀 Getting Started
-1️⃣ Clone the Repository
+1️⃣ Clone the Repository: 
 git clone https://github.com/yourusername/FoodOrderingApp.git
 cd FoodOrderingApp
 
-2️⃣ Install Dependencies
+2️⃣ Install Dependencies: 
 npx expo start
 
